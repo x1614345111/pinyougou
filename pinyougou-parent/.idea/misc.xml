@@ -8,6 +8,8 @@
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-order-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-page-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-pay-web" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-portal-web" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-search-service" />
     <file type="web" url="file://$PROJECT_DIR$/pinyougou-search-web" />
@@ -21,6 +23,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pinyougou-pay-web/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="9.0" project-jdk-type="JavaSDK">

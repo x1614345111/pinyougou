@@ -10,6 +10,8 @@
 
     <context:property-placeholder location="classpath:config/application.properties" />
 
+
+
     <mvc:annotation-driven>
         <mvc:message-converters register-defaults="true">
             <bean class="com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter">
